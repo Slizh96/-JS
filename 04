@@ -1,0 +1,4 @@
+let arr = [];
+let a='X';
+while (arr.length<10) {arr.push(a)}
+console.log (arr)
